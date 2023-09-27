@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/CompilingExp1">
+        <file>analyzser.ico</file>
+    </qresource>
+</RCC>
